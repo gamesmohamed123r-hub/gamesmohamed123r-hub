@@ -1,5 +1,13 @@
 # 💫 About Me:
-Hi, I'm a full-stack web developer building modern <br>responsive web applications. <br>Frontend with HTML, CSS, JavaScript, React, Bootstrap, and <br>Tailwind CSS."<br> "Backend with PHP, Laravel, and MySQL. <br>I'm working on full-stack projects and looking to collaborate<br> on web development and open-source projects.<br> Currently learning advanced JavaScript and improving <br>with Tailwind. <br> I enjoy turning ideas into clean, user-friendly applications.
+
+Hi, I'm a full-stack web developer and AI-native engineer building modern, responsive web applications from 0 to 1.
+
+- **Frontend:** JavaScript, React.js, Tailwind CSS, Bootstrap, HTML5/CSS3
+- **Backend:** PHP, Laravel, MySQL, RESTful APIs
+- **Development Workflow:** Leveraging AI tools (Cursor, Claude Code) for rapid component scaffolding, system architecture planning, automated refactoring, and efficient debugging.
+- **Goal:** Building fast, scalable, and user-friendly software while continuously expanding my full-stack capabilities.
+
+I enjoy turning ideas into clean, functional, and maintainable applications.
 
 
 ## 🌐 Socials:
